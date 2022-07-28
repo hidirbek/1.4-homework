@@ -1,0 +1,132 @@
+.navbar{
+    display: inline-block;
+    align-items: flex-start;
+    display: flex;
+}
+.site-logo{
+    display: inline-block;
+    margin-right: 600px;
+    margin-left: 100px;
+
+}
+ul{
+    list-style: none;
+}
+
+.navbar-list{
+    list-style: none;
+    display: inline-block;
+    width: 545px;
+    height: 43px;
+
+}
+.navbar-item{
+    display: inline-block;
+    font-family: "Mulish";
+    margin-left: 15px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+
+}
+.navbar-link{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+
+.header{
+    text-align: center;
+}
+hr{
+    background-color: #000;
+    width: 56px;
+    height: 2px;
+    border-radius: 2px;
+}
+.article{
+    text-align: center;
+
+}
+.desease{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+h2{
+    text-align: left;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    margin: 5px 0 0 50px;
+}
+p{
+    width: 266px;
+    margin: 5px 0 0 50px;
+    text-align: left;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+.diseade-header{
+    width: 251px;
+}
+
+.article-img{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.herbal{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+.herbal-header{
+    width: 265px;
+}
+.natural{
+    display: inline-block;
+    width: 350px;
+    margin: 70px 0 0 70px;
+}
+.natural-header{
+    width: 245px;
+}
+.view{
+
+}
+
+footer{
+    width: 1600px;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);;
+    font-family: 'Mulish';
+    line-height: 38px;
+    color: #FFFFFF;
+}
+.footer-div{
+    width: 350px;
+    display:inline-block;
+}
+.item-header{
+    font-weight: 700;
+    font-size: 20px;
+}
+.item{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 60px;
+}
+
+
+.read-more-box{
+    display: inline-block;
+    vertical-align: top;
+}
